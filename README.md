@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Shreya</h1>
+<h3 align="center">A Final Year Computer Science Student | Wbe Developer | GDSC Member</h3>
 
-<!--
-**techshreya/techshreya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=techshreya&label=Profile%20views&color=0e75b6&style=flat" alt="techshreya" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🎓 Final year B.Tech Computer Science student  
+- 💡 Member of **Google Developer Student Club (GDSC)**  
+- 🌱 Currently learning **Full Stack Development (MERN)**  
+- 💬 Ask me about **MERN, HTML/CSS, JavaScript, GitHub**  
+
+---
+
+### 💻 Tech Stack
+```html
+Languages: HTML, CSS, JavaScript, C/C++
+Frameworks: React.js, Node.js, Express.js
+Tools: Git, GitHub, VS Code, MongoDB, Canva
+
+### 📌 Badges & Communities
+
+- 👩‍💻 Member at **GDSC**
+
+
+![GDSC](https://img.shields.io/badge/GDSC-Member-red?logo=google&logoColor=white)  
+
+
+
