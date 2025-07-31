@@ -17,9 +17,9 @@
 
 ### 💻 Tech Stack
 ```html
-Languages: HTML, CSS, JavaScript, C/C++
+Languages: HTML, CSS, JavaScript,Java,c
 Frameworks: React.js, Node.js, Express.js
-Tools: Git, GitHub, VS Code, MongoDB, Canva
+Tools: Git, GitHub, VS Code, Canva
 
 
 
