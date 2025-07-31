@@ -21,12 +21,6 @@ Languages: HTML, CSS, JavaScript, C/C++
 Frameworks: React.js, Node.js, Express.js
 Tools: Git, GitHub, VS Code, MongoDB, Canva
 
-### 📌 Badges & Communities
-
-- 👩‍💻 Member at **GDSC**
-
-
-![GDSC](https://img.shields.io/badge/GDSC-Member-red?logo=google&logoColor=white)  
 
 
 
